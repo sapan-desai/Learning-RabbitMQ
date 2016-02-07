@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sender", "Sender.csproj", "{44DBD0A9-22DB-40B5-9A4C-C4F75FD7CDBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Receiver", "..\Receiver\Receiver.csproj", "{3F694415-5BCD-4D36-87C7-4A26DB89F5D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44DBD0A9-22DB-40B5-9A4C-C4F75FD7CDBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44DBD0A9-22DB-40B5-9A4C-C4F75FD7CDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44DBD0A9-22DB-40B5-9A4C-C4F75FD7CDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44DBD0A9-22DB-40B5-9A4C-C4F75FD7CDBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F694415-5BCD-4D36-87C7-4A26DB89F5D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F694415-5BCD-4D36-87C7-4A26DB89F5D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F694415-5BCD-4D36-87C7-4A26DB89F5D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F694415-5BCD-4D36-87C7-4A26DB89F5D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
