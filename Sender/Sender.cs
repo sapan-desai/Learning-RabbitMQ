@@ -3,7 +3,7 @@ using System.Text;
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 
-namespace Learning_RabbitMQ
+namespace Sender
 {
     public class Send
     {
